@@ -1,1 +1,3 @@
-# klinik-vue
+# KliniK
+
+> A Vue.js project
